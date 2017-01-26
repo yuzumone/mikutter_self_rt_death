@@ -1,0 +1,9 @@
+---
+slug: :mikutter_self_rt_death
+depends:
+  mikutter: 3.4.8
+  plugin: []
+version: '1.0'
+author: yuzumone
+name: mikutter_self_rt_death
+description: セルフRTをミュートします
